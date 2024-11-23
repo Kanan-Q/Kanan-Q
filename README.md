@@ -65,7 +65,10 @@ Here are some ideas to get you started
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanan-q&" alt="kanan-q" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanan-q" alt="kanan-q" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanan-q" alt="kanan-q" /></a> </p> 
+
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" style="max-width: 100%;">
 
 
 
