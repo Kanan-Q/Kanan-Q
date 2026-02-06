@@ -58,7 +58,6 @@ Here are some ideas to get you started
 - 🌱 I’m currently learning **C# ASP.NetCore**
 
 
-![My GitHub Game](game.gif)
 
 
 
