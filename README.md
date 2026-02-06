@@ -60,9 +60,6 @@ Here are some ideas to get you started
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanan-q" alt="kanan-q" /></a> </p> 
 
-## Mənim ilham aldığım layihələr
-
-[![Space Shooter Demo](https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/demo.gif)](https://github.com/czl9707/gh-space-shooter)
 
 
 
