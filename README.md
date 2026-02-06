@@ -57,24 +57,13 @@ Here are some ideas to get you started
 
 - 🌱 I’m currently learning **C# ASP.NetCore**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanan-q&show_icons=true&locale=en&layout=compact" alt="kanan-q" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanan-q&show_icons=true&locale=en" alt="kanan-q" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanan-q&" alt="kanan-q" /></p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanan-q" alt="kanan-q" /></a> </p> 
 
 ## Mənim ilham aldığım layihələr
 
-Bu space shooter oyunun mənbə koduna baxmaq üçün buraya kliklə:  
-➡️ [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) — GitHub Action ilə kontribusiya qrafikinə oyun yaradan repo!
+[![Space Shooter Demo](https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/demo.gif)](https://github.com/czl9707/gh-space-shooter)
 
-
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" style="max-width: 100%;">
 
 
 
