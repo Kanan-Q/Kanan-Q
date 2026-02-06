@@ -67,6 +67,12 @@ Here are some ideas to get you started
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanan-q" alt="kanan-q" /></a> </p> 
 
+## Mənim ilham aldığım layihələr
+
+Bu space shooter oyunun mənbə koduna baxmaq üçün buraya kliklə:  
+➡️ [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) — GitHub Action ilə kontribusiya qrafikinə oyun yaradan repo!
+
+
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" style="max-width: 100%;">
 
