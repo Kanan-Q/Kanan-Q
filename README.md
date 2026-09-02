@@ -54,9 +54,6 @@ Here are some ideas to get you started
 ###
 
 
-
-- 🌱 I’m currently learning **C# ASP.NetCore**
-
 ![Space Shooter Demo](KANAN-Q-space-shooter.gif)
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" style="max-width: 100%;">
